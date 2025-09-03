@@ -6,6 +6,7 @@ idna==3.10
 packaging==25.0
 pipenv==2025.0.4
 platformdirs==4.4.0
+pyfiglet==1.0.4
 requests==2.32.4
 setuptools==80.9.0
 urllib3==2.5.0
